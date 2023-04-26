@@ -1,0 +1,12 @@
+{
+  "_output_dir": "/Users/gwood/work/scripts",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Geoff Wood",
+  "email": "ge.ffw.d@gmail.com",
+  "friendly_name": "Jaba Hf",
+  "github_user": "gpwood",
+  "license": "MIT",
+  "package_name": "jaba_HF",
+  "project_name": "jaba-HF",
+  "version": "0.0.0"
+}
