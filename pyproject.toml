@@ -19,8 +19,10 @@ classifiers = [
 Changelog = "https://github.com/gpwood/jaba-HF/releases"
 
 [tool.poetry.dependencies]
-python = "^3.6.1"
+python = "^3.9.1"
 click = "^8.0.1"
+numpy = "^1.24.3"
+rdkit = "^2022.9.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
